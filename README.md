@@ -51,7 +51,7 @@ ECE_ESP32_PCB_TABANGAY_EN1B
 
 
 
-  |  ━━━━━━━━━━━━━━━━━━  Gerber            ━━━━━━━━━━━━━━━━━━
+  |  ━━━━━━━━━━  Gerber            ━━━━━━━━━━
 
 |https://sg.docworkspace.com/d/sbRaqpCNbfg0gwX4_irkhqrs9azk5avwpav
 
