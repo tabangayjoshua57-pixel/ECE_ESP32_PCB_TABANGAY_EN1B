@@ -49,13 +49,13 @@ REPOSITORY STRUCTURE📁
 ECE_ESP32_PCB_TABANGAY_EN1B
 
 
-│
+
 ├── gerber
-|
+
 |https://sg.docworkspace.com/d/sbRaqpCNbfg0gwX4_irkhqrs9azk5avwpav
-|
-|
-|
+
+
+
 
 
 ├── images
@@ -65,10 +65,10 @@ ECE_ESP32_PCB_TABANGAY_EN1B
 <img width="826" height="583" alt="1000159521" src="https://github.com/user-attachments/assets/e62f7eb6-2f26-4d31-bc5c-43a39ce2e724" />
 
 ├── source/
-|
-|
-|
+
+
+
 ├── README.md
-|
-|
-|
+
+
+
