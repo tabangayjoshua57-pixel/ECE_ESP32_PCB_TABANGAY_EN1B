@@ -6,7 +6,7 @@ Project Description
 
 This project is an ESP32-based PCB designed for Electronics Engineering laboratory and project requirements. The PCB integrates the ESP32 microcontroller for controlling electronic components and supporting wireless communication applications such as automation, sensor monitoring, and embedded systems development.
 
-Features
+📍Features
 
 - ESP32 microcontroller integration
 - Compact and organized PCB layout
@@ -15,7 +15,7 @@ Features
 - Easy circuit testing and troubleshooting
 - Designed using professional PCB software
 
-Components Used
+⚙️Components Used
 
 - ESP32 Development Board
 - Resistors
@@ -27,16 +27,16 @@ Components Used
 - PCB Board
 - USB Power Supply
 
-Software Used
+💻Software Used
 
 - EasyEDA
 - GitHub
 
-Author Name
+👤Author Name
 
 JOSHUA TABANGAY
 
-Course & Section
+🎓 Course & Section
 
 ECE/EN1B
 
