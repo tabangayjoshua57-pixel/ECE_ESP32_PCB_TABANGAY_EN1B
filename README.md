@@ -1,4 +1,34 @@
 
+━━━━━━━━━━━━━━━━━━
+REPOSITORY STRUCTURE📁
+━━━━━━━━━━━━━━━━━━
+
+ECE_ESP32_PCB_TABANGAY_EN1B
+
+
+
+├── gerber
+
+|https://sg.docworkspace.com/d/sbRaqpCNbfg0gwX4_irkhqrs9azk5avwpav
+
+
+
+
+
+├── images
+
+<img width="1466" height="813" alt="1000159523" src="https://github.com/user-attachments/assets/6bf36b67-af6c-4870-8c12-bc5a73ffaf1a" />
+<img width="1146" height="778" alt="1000159522" src="https://github.com/user-attachments/assets/40d029bc-3436-4119-9ab3-961ba66be0c7" />
+<img width="826" height="583" alt="1000159521" src="https://github.com/user-attachments/assets/e62f7eb6-2f26-4d31-bc5c-43a39ce2e724" />
+
+├── source/
+
+• EasyEDA / KiCad Files
+• Schematic Files
+• Editable Design Files
+
+
+├── README.md
 ECE_ESP32_PCB_JOSHUA_TABANGAY_EN1B
 
 Project Description
@@ -40,35 +70,6 @@ Course & Section
 ECE/EN1B
 
 
-
-
-━━━━━━━━━━━━━━━━━━
-REPOSITORY STRUCTURE📁
-━━━━━━━━━━━━━━━━━━
-
-ECE_ESP32_PCB_TABANGAY_EN1B
-
-
-
-├── gerber
-
-|https://sg.docworkspace.com/d/sbRaqpCNbfg0gwX4_irkhqrs9azk5avwpav
-
-
-
-
-
-├── images
-
-<img width="1466" height="813" alt="1000159523" src="https://github.com/user-attachments/assets/6bf36b67-af6c-4870-8c12-bc5a73ffaf1a" />
-<img width="1146" height="778" alt="1000159522" src="https://github.com/user-attachments/assets/40d029bc-3436-4119-9ab3-961ba66be0c7" />
-<img width="826" height="583" alt="1000159521" src="https://github.com/user-attachments/assets/e62f7eb6-2f26-4d31-bc5c-43a39ce2e724" />
-
-├── source/
-
-
-
-├── README.md
 
 
 
