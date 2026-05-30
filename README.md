@@ -3,6 +3,8 @@
 REPOSITORY STRUCTURE📁
 ━━━━━━━━━━━━━━━━━━
 
+
+
 ECE_ESP32_PCB_TABANGAY_EN1B
 
 
@@ -24,12 +26,18 @@ ECE_ESP32_PCB_TABANGAY_EN1B
 ├── source/
 
 • EasyEDA / KiCad Files
+
 • Schematic Files
+
 • Editable Design Files
 
 
 ├── README.md
+
+
 ECE_ESP32_PCB_JOSHUA_TABANGAY_EN1B
+
+
 
 Project Description
 
