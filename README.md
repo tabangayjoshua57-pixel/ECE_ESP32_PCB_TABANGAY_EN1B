@@ -34,9 +34,9 @@ This project is an ESP32-based PCB designed for Electronics Engineering laborato
 
 👤Author Name
 
--JOSHUA TABANGAY
+JOSHUA TABANGAY
 
--tabangayjoshua57@gmail.com
+tabangayjoshua57@gmail.com
 
 🎓 Course & Section
 
