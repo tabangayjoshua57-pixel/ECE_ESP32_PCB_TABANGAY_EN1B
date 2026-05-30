@@ -38,7 +38,7 @@ JOSHUA TABANGAY
 
 🎓 Course & Section
 
-ECE/EN1B
+Electronics Engineering – EN1B
 
 
 
